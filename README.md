@@ -1,4 +1,3 @@
-# Assignments
 # Assignment 1&2 Solution 
 # Assignment 3 Solution 
 # Calculator Mini-project using two methods 
